@@ -1,1 +1,1 @@
-its up and running on https://ranjitkumarsikdar.com
+its up and running on [ranjitkumarsikdar](https://ranjitkumarsikdar.in/)
